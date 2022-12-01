@@ -1,12 +1,28 @@
 # Networking Penetration Testing
 Network  Penetration Testing
 
+## Author El RFS
+
+
+
+## Discord Servers
+
+- [PopLAbSec](https://discord.gg/Zmgr8rWMmu)
+- [Offensive Wireless](https://discord.gg/sEXM6W95gV)
+- [Active Directory Attacks](https://discord.gg/VPquyDE3JY)
+- [Red Team PT]()
+- [PopLAbSec]()
 
 ## More Juice
-- Ethical Hacking (https://rfs.popdocs.net/)
-- Active Directory Attacks(https://ad.popdocs.net/)
-- Linux Attacks
+- [Ethical Hacking](https://rfs.popdocs.net/)
+- [Active Directory Attacks](https://ad.popdocs.net/)
+- [Linux Attacks]()
 
+
+#### By Traffic Type
+- Voice
+- Data
+- Signaling
 
 ## Layer 1 Attacks
 - Copper
