@@ -1,7 +1,7 @@
 # Networking Penetration Testing
 Network Attacks by Layer
 
-## Author El RFS
+## Author - El RFS
 
 Follow ME : [RFS](https://cli-ck.me/rfs)
 
@@ -28,31 +28,48 @@ Follow ME : [RFS](https://cli-ck.me/rfs)
 ## Layer 1 Attacks
 Disclaimer:  I am not responsible for your activities. 
 Layer 1 is the physical layer of transmission technology, here I will talk about three types.
+
 ### Copper
+Ohh yeah! Still working baby!
+
 - Ethernet
 - ADSL
 - DocSis
 - E1/T1
 
 ### Fiber
+
 - No no no no
 
-### RF
+### Radio Frequency
+
+
 
 #### Wi-Fi Networks
 - Rogue APs
+
 #### Bluetooth
 - Jamming Bluetooth Devices
+
+
 #### ZigBee
-#### Sat, wait what?
+
+#### Satcom
+
 - move along
 
 
 ## Layer 2 Attacks
-1. VLAN Hopping 
+
+### Ethernet Attacks
+
+1. VLAN Hopping
+2. CAM Overflow
 
 ## Layer 3 Attacks
 
+1. IP
+2. ICMP
 
 
 ## Layer 4 Attacks
