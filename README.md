@@ -42,14 +42,14 @@ Layer 1 is the physical layer of transmission technology, here I will talk about
 #### Wi-Fi Networks
 - Rogue APs
 #### Bluetooth
-- 
+- Jamming Bluetooth Devices
 #### ZigBee
 #### Sat, wait what?
 - move along
 
 
 ## Layer 2 Attacks
-
+1. VLAN Hopping 
 
 ## Layer 3 Attacks
 
