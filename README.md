@@ -20,7 +20,7 @@ Follow ME : [RFS](https://cli-ck.me/rfs)
 - [Linux Attacks]()
 
 
-#### By Traffic Type
+## By Traffic Type
 - Voice
 - Data
 - Signaling
@@ -28,10 +28,19 @@ Follow ME : [RFS](https://cli-ck.me/rfs)
 ## Layer 1 Attacks
 Attention I am not responsible for your activities.
 ### Copper
+- ADSL
+- DocSis
+- E1/T1
+
 ### Fiber
+- No no no no...
 ### RF
 
-
+#### Wi-Fi Networks
+#### Bluetooth
+#### ZigBee
+#### Sat, wait what?
+- move along...
 ## Layer 2 Attacks
 
 
