@@ -27,20 +27,27 @@ Follow ME : [RFS](https://cli-ck.me/rfs)
 
 ## Layer 1 Attacks
 Attention I am not responsible for your activities.
+Layer 1 is t he physical layer of trasmition technolgy, here I will talk about three types.
 ### Copper
+- Ethernet
 - ADSL
 - DocSis
 - E1/T1
 
 ### Fiber
-- No no no no...
+- No no no no
+
 ### RF
 
 #### Wi-Fi Networks
+- Rogue APs
 #### Bluetooth
+- 
 #### ZigBee
 #### Sat, wait what?
-- move along...
+- move along
+
+
 ## Layer 2 Attacks
 
 
