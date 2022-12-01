@@ -1,10 +1,9 @@
 # Networking Penetration Testing
-Network Attacks by Layer
+Network Attacks by Layer using OSI Model as Reference.
 
 ## Author - El RFS
 
 Follow ME : [RFS](https://cli-ck.me/rfs)
-
 
 ## Discord Servers
 
@@ -24,6 +23,23 @@ Follow ME : [RFS](https://cli-ck.me/rfs)
 - Voice
 - Data
 - Signaling
+- Video
+- Gamming
+
+## By Device Type
+
+
+- Routers
+- Switchs
+- Firewalls
+- Proxys
+- IDS/IPS
+- Access Points
+- Modems
+
+What about Core devices?
+Oh yeah, but not here! I Have a dedicateed Telco Page for you!
+
 
 ## Layer 1 Attacks
 Disclaimer:  I am not responsible for your activities. 
@@ -35,7 +51,7 @@ Ohh yeah! Still working baby!
 - Ethernet
 - ADSL
 - DocSis
-- E1/T1
+
 
 ### Fiber
 
