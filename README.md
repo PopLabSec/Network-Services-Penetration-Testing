@@ -5,6 +5,7 @@ Network Attacks by Layer
 
 
 
+
 ## Discord Servers
 
 - [PopLAbSec](https://discord.gg/Zmgr8rWMmu)
@@ -25,9 +26,10 @@ Network Attacks by Layer
 - Signaling
 
 ## Layer 1 Attacks
-- Copper
-- Fiber
-- RF
+Attention I am not responsible for your activities.
+### Copper
+### Fiber
+### RF
 
 
 ## Layer 2 Attacks
