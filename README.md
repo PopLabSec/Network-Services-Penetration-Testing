@@ -26,8 +26,8 @@ Follow ME : [RFS](https://cli-ck.me/rfs)
 - Signaling
 
 ## Layer 1 Attacks
-Attention I am not responsible for your activities.
-Layer 1 is t he physical layer of trasmition technolgy, here I will talk about three types.
+Disclaimer:  I am not responsible for your activities. 
+Layer 1 is the physical layer of transmission technology, here I will talk about three types.
 ### Copper
 - Ethernet
 - ADSL
