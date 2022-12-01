@@ -2,6 +2,12 @@
 Network  Penetration Testing
 
 
+## More Juice
+- Ethical Hacking (https://rfs.popdocs.net/)
+- Active Directory Attacks(https://ad.popdocs.net/)
+- Linux Attacks
+
+
 ## Layer 1 Attacks
 - Copper
 - Fiber
