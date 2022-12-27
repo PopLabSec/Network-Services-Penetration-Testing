@@ -5,19 +5,30 @@ Network Attacks by Layer using OSI Model as Reference.
 
 Follow ME : [RFS](https://cli-ck.me/rfs)
 
+- [PopLabSec Website](https://www.poplabsec.com)
+- [Offensive Wireless Website](https://www.offensive-wireless.com)
+
+
+
 ## Discord Servers
 
-- [PopLAbSec](https://discord.gg/Zmgr8rWMmu)
+- [PopLabSec](https://discord.gg/Zmgr8rWMmu)
 - [Offensive Wireless](https://discord.gg/sEXM6W95gV)
 - [Active Directory Attacks](https://discord.gg/VPquyDE3JY)
-- [Red Team PT]()
-- [PopLAbSec]()
+- [Red Team PT](https://discord.gg/G92qWUDhpV)
 
 ## More Juice
 - [Ethical Hacking](https://rfs.popdocs.net/)
 - [Active Directory Attacks](https://ad.popdocs.net/)
-- [Linux Attacks]()
+- [Infrastructure Attacks](https://intro.popdocs.net/)
+- [Virtualization Attacks](https://intro.popdocs.net/)
+- [Telecom Attacks](https://intro.popdocs.net/)
 
+## Certifications Guides
+- [eJPT Guide](https://ejpt-junior-pentester.popdocs.net/)
+- [eCPPTv2 Guide](https://ecpptv2.popdocs.net/)
+- [OSCP Guide](https://oscp-guide.popdocs.net/)
+- [OSCP Guide](https://oscp-guide.popdocs.net/)
 
 ## By Traffic Type
 - Voice
