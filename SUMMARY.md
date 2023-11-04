@@ -4,7 +4,7 @@
 
 ## Lab Setup
 
-* [Page 2](lab-setup/page-2.md)
+* [Readme](lab-setup/readme.md)
 
 ## Network Basics
 
