@@ -8,27 +8,27 @@
 
 ## Network Basics
 
-* [Page 1](network-basics/page-1.md)
+* [Readme](network-basics/readme.md)
 
 ## Analyzing Network Traffic
 
-* [Page 3](analyzing-network-traffic/page-3.md)
+* [Readme](analyzing-network-traffic/readme.md)
 
 ## Packet Analysis
 
-* [Page 4](packet-analysis/page-4.md)
+* [Readme](packet-analysis/readme.md)
 
 ## Detecting Live Systems
 
-* [Page 5](detecting-live-systems/page-5.md)
+* [Readme](detecting-live-systems/readme.md)
 
 ## Advance Port Scan
 
-* [Page 6](advance-port-scan/page-6.md)
+* [Readme](advance-port-scan/readme.md)
 
 ## FTP Penetration Testing
 
-* [Page 7](ftp-penetration-testing/page-7.md)
+* [Readme](ftp-penetration-testing/readme.md)
 
 ## SSH Penetration Testing
 
