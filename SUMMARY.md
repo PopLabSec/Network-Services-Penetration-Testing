@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
+* [Hacking Networks](README.md)
 
 ## Lab Setup
 
